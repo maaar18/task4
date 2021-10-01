@@ -1,0 +1,7 @@
+a = float(input("Введите первый катет:"))
+b = float(input("Введите второй катет:"))
+c = float(input("Введите гипотенузу:"))
+S = 1/2*a*b
+P = a+b+c
+print("S =", S)
+print("P =", P)
